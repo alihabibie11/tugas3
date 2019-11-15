@@ -16,15 +16,15 @@ if(isset($_POST['simpan'])){
 <form method="POST" action="">
 <table border="1">
  <tr>
-     <td>nama barang </td>
+     <td>Nama barang </td>
      <td><input name="Merek" type="text"></td>
  </tr>
   <tr>
-     <td>qty </td>
+     <td>Qty </td>
      <td><input name="Qty" type="number"></td>
  </tr>
   <tr>
-     <td>harga </td>
+     <td>Harga </td>
      <td><input name="Harga" type="number"></td>
  </tr>
  <tr>
